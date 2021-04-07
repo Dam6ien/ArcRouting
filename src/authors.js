@@ -1,7 +1,6 @@
 import mattAvatar from './img/mattfreire.jpeg'
 
 export const mattfreire = {
-  name: 'Matthew Freire',
-  twitter: '@mattfreire',
+  name: 'Damien de Gouveia',
   avatar: mattAvatar,
 }

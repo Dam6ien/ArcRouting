@@ -45,14 +45,14 @@ export default function Blog() {
         <meta property="og:title" content="Blog – Matthew Freire" />
         <meta property="og:description" content="My general thoughts and work I've been up to." />
         <meta property="og:image" content={`https://mattfreire.blog${twitterCard}`} />
-        <title>Blog - Matthew Freire</title>
+        <title>Arcrouting - Damien de Gouveia</title>
         <meta name="description" content="My general thoughts and work I've been up to." />
       </Head>
 
       <div className="flex flex-row justify-between items-center mb-5">
         <Link href="/blog">
           <a className="text-gray-800 hover:text-gray-900 transition duration-300 ease-in-out">
-            <h2 className="text-3xl font-light tracking-wider">Blog</h2>
+            <h2 className="text">Field notes</h2>
           </a>
         </Link>
         <Link href="/feed.xml">

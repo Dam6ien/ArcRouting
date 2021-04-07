@@ -5,7 +5,7 @@ export function Footer() {
         <span className="block absolute left-0 right-0" style={{ top: '-20px' }}>
           <span className="w-16 pl-3 mx-auto block bg-white">
             <span className="w-10 block text-gray-800">
-              <img className="rounded-full" src="/mattfreire.jpeg" alt="Matthew Freire" />
+              <img className="rounded-full" src="https://pbs.twimg.com/profile_images/1318081471085727747/3zG7UOmv_400x400.jpg" alt="Matthew Freire" />
             </span>
           </span>
         </span>
@@ -14,7 +14,7 @@ export function Footer() {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://github.com/mattfreire"
+              href="https://twitter.com/Damiensdg"
               className="px-3 hover:text-indigo-500"
             >
               <span>
@@ -26,7 +26,7 @@ export function Footer() {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://twitter.com/mattfreire"
+              href="https://twitter.com/Damiensdg"
               className="px-3 hover:text-indigo-500"
             >
               <span>
